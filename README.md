@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KufreAntia
-- 👀 I’m interested in Building Information Modelling, Game Development and Crypto Currency
+- 👀 I’m interested in #BIM #GAMEDEV #CRYPTO
 - 💞️ I’m looking to collaborate on VR/AR, Technical Project Management and Research
 - Fun Fact: I'd so whoop your behind in FIFA 23
 <br> <br> #UNREALENGINE #CAD #AUTODESK #MAYA #COREL #VSC #ADOBE #C++ #JAVA #PYTHON
